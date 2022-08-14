@@ -1,0 +1,6 @@
+- Only user with Id 1 is able to add, delete, and update post
+- detail page shows the posts owned the user with id 1
+- Post numbers get updated on add and delete using redux/toolkit state management.
+- create your .env in the root of the app and paste this
+  - FAST_REFRESH=true
+  - PORT=3030
